@@ -1,0 +1,31 @@
+*{  margin: 0px;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: rgb(255, 64, 0);
+}
+.header button{
+    margin-left: 1000px;
+    background-color: orangered;
+    border: none;
+    font-size: 20px;
+}
+.more{
+    text-align: center;
+    margin-top: 15px;
+}
+.mori{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.search{
+    color: gray;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.text{
+    width: 800px;
+    height: 20px;
+    text-align: center;
+}
